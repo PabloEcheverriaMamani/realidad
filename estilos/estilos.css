@@ -1,0 +1,61 @@
+*
+header {
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    align-items: center;
+    padding-top: 30px;
+    background-color: #302b2b;
+    color: white;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #1f1d1d;
+    padding: 8px 0;
+}
+nav a {
+    color: white;
+    padding: 50px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 1px;
+    font-size: 20px;
+    transition: color 1s; 
+}
+nav a:hover {
+    color: yellow;
+    font-size: 25px;
+}
+.imgprinc {
+    border: 15px solid black;
+}
+p {
+    font-size: 20px;
+}
+h2 {
+    text-align: center;
+}
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.caja {
+    background-color: rgb(141, 111, 111);
+    padding: 20px;
+    border-radius: 8px;
+    width: 30%;
+    text-align: center;
+}
+video {
+    border: 10px solid rgb(99, 65, 65);
+}
+.contacto-item {
+    text-align: center;
+    font-size: 30px;
+}
+.centrearicono {
+    text-align: center;
+}
+
